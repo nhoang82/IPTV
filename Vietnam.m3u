@@ -1,10 +1,3 @@
-#EXTM3U
-#EXTINF:-1,VT: 24/7 Doremon
-https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
-#EXTINF:-1,VT: 24/7 Tom and Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-
-
 #EXTINF:-1,VT: ANTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22610
 #EXTINF:-1,VT: E Channel TV
@@ -107,3 +100,5 @@ https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_hig
 https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqT2SRa5h1YoiD9xCaMKzIMXTQShDQcIWqyrFNB8WEENcBXEav" group-title="Kênh 24/7",Doraemon Tiếng Việt Tập Dài
 https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/png-pictures-of-tom-and-jerry-download-tom-and-jerry-png-images-transparent-gallery-advertisement-612.png" group-title="Kênh 24/7",Tom & Jerry Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv

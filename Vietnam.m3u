@@ -69,3 +69,37 @@ http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1,VT: VNA TV 
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
+
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VNEWS" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png" group-title="Kênh Thiết Yếu",VNEWS
+http://live.vnanet.vn/720P/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Quốc Hội" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png" group-title="Kênh Thiết Yếu",Quốc Hội
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png" group-title="Kênh Thiết Yếu",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="Kênh Thiết Yếu",QPVN
+https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nhân Dân" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png" group-title="Kênh Thiết Yếu",Nhân Dân
+https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXcyz7ZQ/marvel-3.jpg" group-title="Kênh 24/7",Phim Marvel
+https://ws.flv.nimo.tv/live/su1599512427626re02097385902583d031254e5d6f0c321_high.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RQT6j4b/luu-duc-hoa-Screenshot-3.jpg" group-title="Kênh 24/7",Phim Lưu Đức Hòa
+https://ws.flv.nimo.tv/live/su1599512427612r744829c1d0b695d6ec8bedeba71468a0.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zSC2JBk/chau-nhuan-phat-1.jpg" group-title="Kênh 24/7",Phim Châu Nhuận Phát
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e_mid.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrfBmy0Q/hong-kim-bao-Screenshot-1.jpg" group-title="Kênh 24/7",Phim Hồng Kim Bảo
+https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e_mid.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2019_03_29/phong_than_dien_nghia10.jpg" group-title="Kênh 24/7",Phong Thần Dương Tiễn
+https://ws.flv.nimo.tv/live/su1599512427621r54f92d0bb9657a84d3211bbe20bedf26_high.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" group-title="Kênh 24/7",Anime Pokemon
+https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_high.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCdEMCb0a6nNXH9tmF654MVrG_v7kLhyK6K4A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Kênh 24/7",Phim Chiếu Rạp Mới Nhất 2019
+https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304_high.flv
+#EXTINF:-1 tvg-logo="https://www.disneyinternational.com/img/toplogo.png" group-title="Kênh 24/7",Hoạt Hình Disney
+https://ws.flv.nimo.tv/live/su1599512427594r0f36e55ce92a8530ce0317fc4afb9837_high.flv?needwm=0
+#EXTINF:-1 tvg-logo="https://truyenaudiohay.com/wp-content/uploads/2016/03/truyen-ma-kinh-di-dem-khong-trang-nguyen-ngoc-ngan.jpg" group-title="Kênh 24/7",Truyện Ma Nguyễn Ngọc Ngạn
+https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/ttv-boxart/DragonBall%20Z%3A%20Dokkan%20Battle.jpg" group-title="Kênh 24/7",Dragon Ball Z Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv

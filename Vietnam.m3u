@@ -62,360 +62,372 @@ http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png",VNews
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png", VNews
 http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png",Quốc Hội
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png", Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png",ANTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png", ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png",QPVN
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png", QPVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png",Nhân Dân
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png", Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
 
 ----Kênh 24/7----
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/kXcyz7ZQ/marvel-3.jpg",Phim Marvel
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/kXcyz7ZQ/marvel-3.jpg", Phim Marvel
 https://ws.flv.nimo.tv/live/su1599512427626re02097385902583d031254e5d6f0c321_high.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7"tvg-logo="https://i.postimg.cc/3RQT6j4b/luu-duc-hoa-Screenshot-3.jpg",Phim Lưu Đức Hòa
+#EXTINF:-1 group-title="Kênh 24/7"tvg-logo="https://i.postimg.cc/3RQT6j4b/luu-duc-hoa-Screenshot-3.jpg", Phim Lưu Đức Hòa
 https://ws.flv.nimo.tv/live/su1599512427612r744829c1d0b695d6ec8bedeba71468a0.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/1zSC2JBk/chau-nhuan-phat-1.jpg",Phim Châu Nhuận Phát/Hồng Kim Bảo
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.postimg.cc/1zSC2JBk/chau-nhuan-phat-1.jpg", Phim Châu Nhuận Phát/Hồng Kim Bảo
 https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e_mid.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2019_03_29/phong_than_dien_nghia10.jpg",Phong Thần Dương Tiễn
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2019_03_29/phong_than_dien_nghia10.jpg", Phong Thần Dương Tiễn
 https://ws.flv.nimo.tv/live/su1599512427621r54f92d0bb9657a84d3211bbe20bedf26_high.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png",Anime Pokemon
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png", Anime Pokemon
 https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_high.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCdEMCb0a6nNXH9tmF654MVrG_v7kLhyK6K4A=s900-mo-c-c0xffffffff-rj-k-no",Phim Chiếu Rạp Mới Nhất 2019
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCdEMCb0a6nNXH9tmF654MVrG_v7kLhyK6K4A=s900-mo-c-c0xffffffff-rj-k-no", Phim Chiếu Rạp Mới Nhất 2019
 https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304_high.flv
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://www.disneyinternational.com/img/toplogo.png",Hoạt Hình Disney
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://www.disneyinternational.com/img/toplogo.png", Hoạt Hình Disney
 https://ws.flv.nimo.tv/live/su1599512427594r0f36e55ce92a8530ce0317fc4afb9837_high.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://truyenaudiohay.com/wp-content/uploads/2016/03/truyen-ma-kinh-di-dem-khong-trang-nguyen-ngoc-ngan.jpg",Truyện Ma Nguyễn Ngọc Ngạn
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://truyenaudiohay.com/wp-content/uploads/2016/03/truyen-ma-kinh-di-dem-khong-trang-nguyen-ngoc-ngan.jpg", Truyện Ma Nguyễn Ngọc Ngạn
 https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://static-cdn.jtvnw.net/ttv-boxart/DragonBall%20Z%3A%20Dokkan%20Battle.jpg",Dragon Ball Z Tiếng Việt
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://static-cdn.jtvnw.net/ttv-boxart/DragonBall%20Z%3A%20Dokkan%20Battle.jpg", Dragon Ball Z Tiếng Việt
 https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
 #EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://icon2.kisspng.com/20180711/ygt/kisspng-doraemon-animation-suneo-honekawa-doraemon-doraemon-5b459e0eb06629.0177401515312891027225.jpg",Doraemon Tiếng Việt Tập Ngắn
 https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqT2SRa5h1YoiD9xCaMKzIMXTQShDQcIWqyrFNB8WEENcBXEav",Doraemon Tiếng Việt Tập Dài
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqT2SRa5h1YoiD9xCaMKzIMXTQShDQcIWqyrFNB8WEENcBXEav", Doraemon Tiếng Việt Tập Dài
 https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://pluspng.com/img-png/png-pictures-of-tom-and-jerry-download-tom-and-jerry-png-images-transparent-gallery-advertisement-612.png",Tom & Jerry Tiếng Việt
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://pluspng.com/img-png/png-pictures-of-tom-and-jerry-download-tom-and-jerry-png-images-transparent-gallery-advertisement-612.png", Tom & Jerry Tiếng Việt
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Live Concert Kpop
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png", Live Concert Kpop
 https://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Kênh Hài Hoài Linh
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Hài Hoài Linh
 https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Anime Captain Tsubasa 2019
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.ytimg.com/vi/_vZGeLIW8us/maxresdefault.jpg", Hài Vân Sơn Bảo Liêm
+https://al.flv.nimo.tv/live/su1599512427607r6166990443e2840d425f385a8df6c4c7_high.flv
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png", Anime Captain Tsubasa 2019
 https://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_veryhigh.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Anime Pokemon
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png", Anime Pokemon
 https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_low.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Pokemon Phim Lẻ
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png", Pokemon Phim Lẻ
 https://ws.flv.nimo.tv/live/su1599512427623r60a0f49359ab5ea619b0e2a4e448d9af.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Cậu bé bút chì
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Cậu bé bút chì
 https://ws.flv.nimo.tv/live/su1599512427627rdc1b400f8200f7923309b6186cc142f8_high.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Tuyển Tập Phim Thành Long
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Tuyển Tập Phim Thành Long
 https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Hoạt Hình Hunter X Hunter
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Hoạt Hình Hunter X Hunter
 https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Dragon Ball Kai Tiếng Việt
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Dragon Ball Kai Tiếng Việt
 https://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?needwm=0
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Conan Tiếng Việt
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Conan Tiếng Việt
 https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_mid.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Conan Tiếng Việt 2
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Conan Tiếng Việt 2
 https://al.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Ben 10 Tiếng Việt
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Ben 10 Tiếng Việt
 https://al.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
-#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Tân Ỷ Thiên Đồ Long Ký 2008
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" , Tân Ỷ Thiên Đồ Long Ký 2008
 https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i1.wp.com/vuviphim.com/wp-content/uploads/2018/07/%C4%90%C3%B4ng-Cung-Good-Bye-My-Princess-2018-2.png?resize=750%2C426&ssl=1", Diên Hy Công Lược
+https://ws.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7_high.flv
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://zingtv-photo.zadn.vn/channel/8/a/8ae2628c725174e35bd5fe80aa50f979_1397794763.jpg", Anime Hội Pháp Sư
+https://tx.flv.nimo.tv/live/su1599512427567r44397e42e5c218338dc999412d69a4bc_high.flv
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://cdn.tuoitre.vn/thumb_w/640/2017/co-dat-moi-dung-yourname-heading-9read-only-1509342032896.jpg", Hoạt Hình Nhật Bản
+https://tx.flv.nimo.tv/live/su1599512427549r5d901db60b2b18139bcd74a8fc670c36_high.flv
+#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://kenh14cdn.com/2018/10/17/165748-1539795033939975875310.jpg", Quỳnh Búp Bê
+https://al.flv.nimo.tv/live/su1599512427636raafb72f2e65dee8fcc21f28048a6cdd6.flv
+
+
 
 
 ----Paris By Night----
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-124 Anh Cho Em Mùa Xuân
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-124 Anh Cho Em Mùa Xuân
 http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN124.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-123 Ảo Ảnh
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-123 Ảo Ảnh
 http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv
-#EXTINF:-1 group-title="Paris By Night",PBN-121 Song Ca Nhạc Vàng
+#EXTINF:-1 group-title="Paris By Night", PBN-121 Song Ca Nhạc Vàng
 http://www.mediafire.com/download/dhdqjmfpbo8wa7w/PBN21_720p.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-120 Còn Chút Gì Để Nhớ
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-120 Còn Chút Gì Để Nhớ
 http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-118 50 Năm Âm Nhạc Đức Huy
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-118 50 Năm Âm Nhạc Đức Huy
 #http://www.youtube.com/watch?v=EI8oVmdK6r8
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-117 Vườn Hoa Âm Nhạc HD 1080p
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-117 Vườn Hoa Âm Nhạc HD 1080p
 http://www.mediafire.com/download/fj56quupoqr5d4b/Paris_By_Night_117_Vuon_Hoa_Am_Nhac_2016_mHD_BluRay_DD2.0_x264-TRiM.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-116 Nụ Cười Đầu Năm HD 1080p
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-116 Nụ Cười Đầu Năm HD 1080p
 http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-115 Nét Đẹp Á Đông HD 720p
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-115 Nét Đẹp Á Đông HD 720p
 http://www.mediafire.com/download/f922xg2xuh7y13w/blackbox-TN115.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-114 Tôi Là Người Việt Nam DVD-1 
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-114 Tôi Là Người Việt Nam DVD-1 
 http://www.mediafire.com/download/24bca4rhxf197q3/TN114-DVD1.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-114 Tôi Là Người Việt Nam DVD-2 
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-114 Tôi Là Người Việt Nam DVD-2 
 http://www.mediafire.com/download/tfooui5jcu33mi7/TN114-DVD2.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-114 Tôi Là Người Việt Nam DVD-3 
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-114 Tôi Là Người Việt Nam DVD-3 
 http://www.mediafire.com/download/mhbs2g1vsc3r22g/TN114-DVD3.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-113 Mừng Tuổi Mẹ HD 720p (P1)
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-113 Mừng Tuổi Mẹ HD 720p (P1)
 http://www.mediafire.com/download/m1435e1p3d338jd/TN113-Part1.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-113 Mừng Tuổi Mẹ HD 720p (P2)
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-113 Mừng Tuổi Mẹ HD 720p (P2)
 http://www.mediafire.com/download/4ukpavn9e37vvc5/TN113-Part2.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-113 Mừng Tuổi Mẹ HD 720p (P3)
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-113 Mừng Tuổi Mẹ HD 720p (P3)
 http://www.mediafire.com/download/68ddqmdl2qy7mce/TN113-Part3.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="",PBN-113 Mừng Tuổi Mẹ HD 720p (P4)
+#EXTINF:-1 group-title="Paris By Night" tvg-logo="", PBN-113 Mừng Tuổi Mẹ HD 720p (P4)
 http://www.mediafire.com/download/78ggue2uoeggpjf/TN113-Part4.mp4
 
 
 ----Asia Production----
-#EXTINF:-1 group-title="Asia Production" tvg-logo="",Asia-80 Làn Gió Mới
+#EXTINF:-1 group-title="Asia Production" tvg-logo="", Asia-80 Làn Gió Mới
 http://www.mediafire.com/download/3vaq73mkigl32dz/A80_1080p.mkv
-#EXTINF:-1 group-title="Asia Production" tvg-logo="",Asia-77 Dòng Nhạc Anh Bằng Lam Phương 1080p
+#EXTINF:-1 group-title="Asia Production" tvg-logo="", Asia-77 Dòng Nhạc Anh Bằng Lam Phương 1080p
 http://www.mediafire.com/download/8fvc8pv43jwe46x/Asia77.Dong.Nhac.Anh.Bang.Va.Lam.Phuong.Bluray.1080p.mp4
-#EXTINF:-1 group-title="Asia Production" tvg-logo="",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD1
+#EXTINF:-1 group-title="Asia Production" tvg-logo="", Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD1
 http://www.mediafire.com/download/lidvdkdtke46vd2/Asia-77.D1.mp4
-#EXTINF:-1 group-title="Asia Production" tvg-logo="",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD2
+#EXTINF:-1 group-title="Asia Production" tvg-logo="", Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD2
 http://www.mediafire.com/download/2qhhxy4cj9b8gar/Asia-77.D2.mp4
-#EXTINF:-1 group-title="Asia Production" tvg-logo="",Asia Golden-4 Khúc Nhạc Đồng Quê
+#EXTINF:-1 group-title="Asia Production" tvg-logo="", Asia Golden-4 Khúc Nhạc Đồng Quê
 http://www.mediafire.com/download/a0329bgacesl5pg/blackbox247-asia-golden4.mp4
 
 
 ----Tây Du Ký 2010----
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 1
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 1
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-1.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 2
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 2
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-2.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 3
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 3
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-3.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 4
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 4
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-4.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 5
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 5
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-5.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 6
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 6
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-6.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 7
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 7
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-7.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 8
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 8
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-8.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 9
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 9
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-9.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 10
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 10
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-10.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 11
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 11
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-11.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 12
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 12
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-12.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 13
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 13
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-13.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 14
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 14
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-14.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 15
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 15
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-15.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 16
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 16
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-16.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 17
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 17
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-17.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 18
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 18
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-18.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 19
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 19
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-19.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 20
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 20
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-20.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 21
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 21
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-21.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 22
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 22
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-22.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 23
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 23
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-23.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 24
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 24
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-24.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 25
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 25
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-25.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 26
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 26
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-26.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 27
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 27
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-27.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 28
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 28
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-28.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 29
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 29
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-29.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 30
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 30
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-30.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 31
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 31
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-31.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 32
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 32
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-32.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 33
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 33
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-33.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 34
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 34
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-34.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 35
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 35
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-35.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 36
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 36
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-36.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 37
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 37
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-37.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 38
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 38
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-38.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 39
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 39
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-39.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 40
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 40
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-40.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 41
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 41
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-41.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 42
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 42
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-42.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 43
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 43
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-43.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 44
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 44
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-44.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 45
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 45
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-45.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 46
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 46
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-46.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 47
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 47
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-47.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 48
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 48
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-48.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 49
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 49
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-49.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 50
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 50
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-50.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 51
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 51
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-51.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 52
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 52
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-52.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 53
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 53
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-53.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 54
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 54
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-54.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 55
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 55
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-55.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 56
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 56
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-56.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 57
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 57
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-57.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 58
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 58
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-58.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 59
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 59
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-59.mp4
-#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 (Thuyết Minh) - Tập 60 (End)
+#EXTINF:-1 group-title="Tây Du Ký 2010 (Thuyết Minh)" tvg-logo="https://i.imgur.com/yRiyER1.jpg", Tây Du Ký 2010 (Thuyết Minh) - Tập 60 (End)
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-60.mp4
 
 
 ----Tế Công----
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 1
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 1
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-1.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 2
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 2
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-2.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 3
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 3
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-3.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 4
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-4.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 5
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 5
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-5.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 6
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 6
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-6.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 7
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 7
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-7.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 8
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 8
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-8.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 9
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 9
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-9.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 10
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 10
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-10.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 11
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 11
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-11.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 12
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 12
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-12.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 13
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 13
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-13.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 14
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 14
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-14.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 15
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 15
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-15.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 16
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 16
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-16.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 17
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 17
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-17.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 18
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 18
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-18.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 19
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 19
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-19.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 20
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 20
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-20.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 21
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 21
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-21.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 22
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 22
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-22.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 23
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 23
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-23.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 24
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 24
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-24.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 25
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 25
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-25.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 26
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 26
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-26.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 27
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 27
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-27.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 28
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 28
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-28.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 29
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 29
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-29.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 30
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 30
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-30.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 31
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 31
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-31.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 32
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 32
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-32.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 33
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 33
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-33.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 34
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 34
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-34.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 35
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 35
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-35.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 36
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 36
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-36.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 37
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 37
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-37.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 38
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 38
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-38.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 39
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 39
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-39.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 40
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 40
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-40.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 41
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 41
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-41.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 42
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 42
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-42.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 43
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 43
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-43.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 44
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 44
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-44.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 45
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 45
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-45.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 46
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 46
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-46.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 47
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 47
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-47.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 48
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 48
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-48.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 49
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 49
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-49.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 50
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 50
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-50.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 51
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 51
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-51.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 52
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 52
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-52.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 53
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 53
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-53.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 54
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 54
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-54.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 55
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 55
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-55.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 56
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 56
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-56.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 57
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 57
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-57.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 58
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 58
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-58.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 59
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 59
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-59.mp4
-#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 60 (End)
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg", Tân Tế Công 2011 - Tập 60 (End)
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-60.mp4
 
 
@@ -682,73 +694,73 @@ http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_He
 
 
 ----Phim Thiếu Nhi----
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://i.pinimg.com/originals/8c/4f/08/8c4f08a67329d16c9301c3bcecbe2276.jpg",Gia Đình Mèo Quý Tộc
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://i.pinimg.com/originals/8c/4f/08/8c4f08a67329d16c9301c3bcecbe2276.jpg", Gia Đình Mèo Quý Tộc
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://a9.vietbao.vn/images/vi955/2011/11/55416686-1320636757-pib10.jpg",Chú Mèo Đi Hia
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://a9.vietbao.vn/images/vi955/2011/11/55416686-1320636757-pib10.jpg", Chú Mèo Đi Hia
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-MeoDiHia.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-63Sgvn55Lww/Wp-rfvEtXzI/AAAAAAAE4ac/F27f079OTOs0Tn_PlRUfXc6sufkPSpjngCHMYCw/s320/XemPhimOn_thumb_chim-canh-cut-luot-van.jpg",Chim Cánh Cụt Lướt Ván
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-63Sgvn55Lww/Wp-rfvEtXzI/AAAAAAAE4ac/F27f079OTOs0Tn_PlRUfXc6sufkPSpjngCHMYCw/s320/XemPhimOn_thumb_chim-canh-cut-luot-van.jpg", Chim Cánh Cụt Lướt Ván
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChimCanhCutLuotVan.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://image.phimmoi.net/film/1240/poster.medium.jpg",Đào Tẩu
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://image.phimmoi.net/film/1240/poster.medium.jpg", Đào Tẩu
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-DaoTau.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://img.phimvtv.com/film/13757/meo-rung.poster.jpg?2019",Mèo Rừng
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://img.phimvtv.com/film/13757/meo-rung.poster.jpg?2019", Mèo Rừng
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-MeoRung.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://image.phimmoi.net/film/3879/poster.medium.jpg",Người Đẹp Và Quái Vật
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://image.phimmoi.net/film/3879/poster.medium.jpg", Người Đẹp Và Quái Vật
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-NguoiDepVaQuaiVat.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xONlbXEFD8w7bLNEnMSViOqTiCFwc18LP7Eb2cJaOAxPh-4Qcw",Vẹt Đuôi Dài Rio
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xONlbXEFD8w7bLNEnMSViOqTiCFwc18LP7Eb2cJaOAxPh-4Qcw", Vẹt Đuôi Dài Rio
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VetDuoiDaiRio.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSWW6v-d95a_njS-kMQHUalUq79tm2sehop9Gp9vvNv1zhF1LwQ",Ong Vàng Phiêu Lưu Ký
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSWW6v-d95a_njS-kMQHUalUq79tm2sehop9Gp9vvNv1zhF1LwQ", Ong Vàng Phiêu Lưu Ký
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-OngVangPhieuLuuKy.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Tintin_3D_Poster.jpg/280px-Tintin_3D_Poster.jpg",Những Cuộc Phiêu Lưu Của TinTin
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Tintin_3D_Poster.jpg/280px-Tintin_3D_Poster.jpg", Những Cuộc Phiêu Lưu Của TinTin
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-NhungCuocPhieuLuuCuaTintin.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://cdn.vietsubtv.com/images/film/leafie-co-ga-mai-thich-phieu-luu-5051.jpg",Cô Gà Mái Thích Phiêu Lưu (Việt Sub)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://cdn.vietsubtv.com/images/film/leafie-co-ga-mai-thich-phieu-luu-5051.jpg", Cô Gà Mái Thích Phiêu Lưu (Việt Sub)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoGaMaiThichPhieuLuu.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-os6qB1tJq5Y/UUGo7kbGjxI/AAAAAAAAXNM/QY9PrMxZkaI/s742/xemphimso_tieu-thu-va-ga-lang-thang.jpg",Tiểu Thư Và Gã Lang Thang (phần 1)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-os6qB1tJq5Y/UUGo7kbGjxI/AAAAAAAAXNM/QY9PrMxZkaI/s742/xemphimso_tieu-thu-va-ga-lang-thang.jpg", Tiểu Thư Và Gã Lang Thang (phần 1)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-TieuThuVaGaLangThang-Phan1.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-os6qB1tJq5Y/UUGo7kbGjxI/AAAAAAAAXNM/QY9PrMxZkaI/s742/xemphimso_tieu-thu-va-ga-lang-thang.jpg",Tiểu Thư Và Gã Lang Thang (phần 2)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-os6qB1tJq5Y/UUGo7kbGjxI/AAAAAAAAXNM/QY9PrMxZkaI/s742/xemphimso_tieu-thu-va-ga-lang-thang.jpg", Tiểu Thư Và Gã Lang Thang (phần 2)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-TieuThuVaGaLangThang-Phan2.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/70/The_Fox_and_the_Hound.jpg/280px-The_Fox_and_the_Hound.jpg",Cáo Và Chó Săn – Trọn Bộ (phần 1)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/70/The_Fox_and_the_Hound.jpg/280px-The_Fox_and_the_Hound.jpg", Cáo Và Chó Săn – Trọn Bộ (phần 1)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CaoVaChoSan1.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/70/The_Fox_and_the_Hound.jpg/280px-The_Fox_and_the_Hound.jpg",Cáo Và Chó Săn – Trọn Bộ (phần 2)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/70/The_Fox_and_the_Hound.jpg/280px-The_Fox_and_the_Hound.jpg", Cáo Và Chó Săn – Trọn Bộ (phần 2)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CaoVaChoSan2.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://imedia.kenhhd.tv/xce8xh5dlwy9/chu-gau-yogi-yogi-bear-2010-4aed7f7381.jpg",Chú Gấu Yogi
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://imedia.kenhhd.tv/xce8xh5dlwy9/chu-gau-yogi-yogi-bear-2010-4aed7f7381.jpg", Chú Gấu Yogi
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChuGauYoGi.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://truyencotich.vn/wp-content/uploads/2012/10/tfv-660x440.jpg",Bạch Tuyết Và Bảy Chú Lùn
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://truyencotich.vn/wp-content/uploads/2012/10/tfv-660x440.jpg", Bạch Tuyết Và Bảy Chú Lùn
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-BachTuyetVaBayChuLun.mp4
 #EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/95/Poster_phim_Công_chúa_và_chàng_ếch.jpg/280px-Poster_phim_Công_chúa_và_chàng_ếch.jpg",Công Chúa Và Chàng Ếch
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CongChuaVaChangEch.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiDZhkTUkgnXq-A8H6yLgm7wOsbqDzPnJSchV0Qymj1QzNv6ejg",Chú Gà Siêu Quậy
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiDZhkTUkgnXq-A8H6yLgm7wOsbqDzPnJSchV0Qymj1QzNv6ejg", Chú Gà Siêu Quậy
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChuGaSieuQuay.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Chuột Đầu Bếp
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Chú Chuột Đầu Bếp
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChuChuotDauBep.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cuộc Hành Trình Của Chú Báo Đốm
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Cuộc Hành Trình Của Chú Báo Đốm
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CuocHanhTrinhCuaChuBaoDom.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",ock – Chú Chó Dũng Cảm
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", ock – Chú Chó Dũng Cảm
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-JockChuChoDungCam.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",101 Con Chó Đốm
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", 101 Con Chó Đốm
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-101ConChoDom.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (phần 1)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Madagascar – Trọn Bộ (phần 1)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-Madagascar-Phan1-ChuyenPhieuLuuDenMadagascar.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (phần 2)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Madagascar – Trọn Bộ (phần 2)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-Madagascar-Phan2-TauThoatDenChauPhi.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (phần 3)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Madagascar – Trọn Bộ (phần 3)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-Madagascar-Phan3-ThanTuongChauAu.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Ralph Đập Phá
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Ralph Đập Phá
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-RalphDapPha.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Sinbab – Huyền Thoại Biển Cả
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Sinbab – Huyền Thoại Biển Cả
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-SinbadHuyenThoaiBienCa.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Voi Và Những Người Bạn
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Voi Và Những Người Bạn
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VoiVaNhungNguoiBan.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Siêu Nhí Astro
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Siêu Nhí Astro
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-SieuNhiAstro.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (phần 1)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Cô Bé Lọ Lem – Trọn Bộ (phần 1)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan1.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (phần 2)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Cô Bé Lọ Lem – Trọn Bộ (phần 2)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan2.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (phần 3)
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Cô Bé Lọ Lem – Trọn Bộ (phần 3)
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan2.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Người Đẹp Ngủ Trong Rừng
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Người Đẹp Ngủ Trong Rừng
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-NguoiDepNguTrongRung.mp4
-#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Vút Bay
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="", Vút Bay
 http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VutBay.mp4
 
 

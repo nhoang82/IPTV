@@ -92,7 +92,7 @@ http://live.vnanet.vn/720P/playlist.m3u8
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png" group-title="Kênh Truyền Hình",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="KKênh Truyền Hình",QPVN
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="Kênh Truyền Hình",QPVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nhân Dân" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png" group-title="Kênh Truyền Hình",Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8

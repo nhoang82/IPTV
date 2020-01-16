@@ -156,7 +156,7 @@ http://118.107.68.10:1935/live/VinhLong1HD_800K/playlist.m3u8
 #http://192.168.100.3.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/hai/playlist.m3u8&u=guest
 #EXTINF:-1 tvg-name="VPop TV" tvg-logo="https://i.postimg.cc/PqrXgrGY/Vpop-TV-logo.jpg" group-title="Khác", VPop TV
 #http://192.168.100.3.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vpoptv/playlist.m3u8&u=guest
-#EXTINF:-1 tvg-name="Golf News (HD)" tvg-logo="https://i.postimg.cc/B6HVNHhg/golfnews.png" group-title="Khác", Golf News (HD)
+#EXTINF:-1 tvg-name="Golf News (HD)" tvg-logo="https://i.postimg.cc/B6HVNHhg/golfnews.png" group-title="Quốc Tế", Golf News (HD)
 https://stream.golfnews.vn/GolfNewsTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HITS HD" tvg-name="HITS (HD)" tvg-logo="https://i.postimg.cc/L8jg9s0W/hits.png" group-title="Quốc Tế", HITS (HD)
 #http://210.210.155.35/uq2663/h/h37/index2.m3u8

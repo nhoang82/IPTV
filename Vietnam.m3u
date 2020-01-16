@@ -1,79 +1,76 @@
-
-#EXTINF:-1,VT: ANTV
+----edited by Nick Hoang 1/16/2020----
+----Kênh Truyền Hình----
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", ANTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22610
-#EXTINF:-1,VT: E Channel TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", E Channel TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22633
-#EXTINF:-1,VT: Gia Lai TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Gia Lai TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22618
-#EXTINF:-1,VT: HanoiTV 1
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", HanoiTV 1
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22607
-#EXTINF:-1,VT: HanoiTV 2
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", HanoiTV 2
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22608
-#EXTINF:-1,VT: HBTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", HBTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22620
-#EXTINF:-1,VT: HTTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", HTTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22617
-#EXTINF:-1,VT: Hung Yen TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Hung Yen TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22623
-#EXTINF:-1,VT: KRT
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", KRT
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22619
-#EXTINF:-1,VT: KTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", KTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22615
-#EXTINF:-1,VT: LA 34
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", LA 34
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22614
-#EXTINF:-1,VT: NTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", NTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22616
-#EXTINF:-1,VT: ON Biz TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", ON Biz TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22631
-#EXTINF:-1,VT: ON Film TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", ON Film TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22630
-#EXTINF:-1,VT: ON Football TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", ON Football TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22632
-#EXTINF:-1,VT: Saigon TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Saigon TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22626
-#EXTINF:-1,VT: SCTV HD
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", SCTV HD
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22634
-#EXTINF:-1,VT: SCTV Phim
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", SCTV Phim
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22635
-#EXTINF:-1,VT: SCTV San Khau
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", SCTV San Khau
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22636
-#EXTINF:-1,VT: STV1
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", STV1
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22611
-#EXTINF:-1,VT: STV2
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", STV2
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22612
-#EXTINF:-1,VT: Style TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Style TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22637
-#EXTINF:-1,VT: TBTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", TBTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22624
-#EXTINF:-1,VT: THTPCT
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", THTPCT
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22613
-#EXTINF:-1,VT: Tuyen Quang TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Tuyen Quang TV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22621
-#EXTINF:-1,VT: Vietoday
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Vietoday
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22625
-#EXTINF:-1,VT: Vnews
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Vnews
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22609
-#EXTINF:-1,VT: VSTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", VSTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22627
-
-
-#EXTINF:-1,VT: VietFace Cali 57.2 
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", VietFace Cali 57.2 
 http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
-#EXTINF:-1,VT: Việt Mỹ TV 
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", Việt Mỹ TV 
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VNA TV"" group-title="Kênh Truyền Hình",VNA TV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VNEWS" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png" group-title="Kênh Truyền Hình",VNEWS
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png",VNews
 http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Quốc Hội" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png" group-title="Kênh Truyền Hình",Quốc Hội
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png",Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png" group-title="Kênh Truyền Hình",ANTV
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="Kênh Truyền Hình",QPVN
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png",QPVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nhân Dân" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png" group-title="Kênh Truyền Hình",Nhân Dân
+#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png",Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
 

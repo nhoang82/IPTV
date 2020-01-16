@@ -82,19 +82,19 @@ http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22627
 http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
 #EXTINF:-1,VT: Việt Mỹ TV 
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1,VT: VNA TV 
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VNA TV"" group-title="Kênh Truyền Hình",VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
 
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VNEWS" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png" group-title="Kênh Thiết Yếu",VNEWS
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="VNEWS" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png" group-title="Kênh Truyền Hình",VNEWS
 http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Quốc Hội" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png" group-title="Kênh Thiết Yếu",Quốc Hội
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Quốc Hội" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png" group-title="Kênh Truyền Hình",Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png" group-title="Kênh Thiết Yếu",ANTV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png" group-title="Kênh Truyền Hình",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="Kênh Thiết Yếu",QPVN
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="QPVN" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png" group-title="KKênh Truyền Hình",QPVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nhân Dân" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png" group-title="Kênh Thiết Yếu",Nhân Dân
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Nhân Dân" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png" group-title="Kênh Truyền Hình",Nhân Dân
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
 

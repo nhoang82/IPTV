@@ -285,16 +285,6 @@ http://schannel.saigon.ns01.us:1935/schannel/myStream/chunklist_w503091201.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="", VNA TV
 http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/J06y8n3v/1-TTXVN.png", VNews
-http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/X7G3DfXh/1-QUOC-HOI.png", Quốc Hội
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/jjNFmn6g/1-ANTV.png", ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/bJ1HqQdM/1-QUOC-PHONG-VN.png", QPVN
-https://v2bdoz1zs4.vcdn.com.vn/hls/QPVN_631/03.m3u8
-#EXTINF:-1 group-title="Kênh Truyền Hình" tvg-logo="https://i.postimg.cc/y85kJ1tg/1-NHAN-DAN.png", Nhân Dân
-https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 
 
 ----Kênh 24/7----

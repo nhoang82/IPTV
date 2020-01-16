@@ -1,24 +1,3 @@
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 1 (Chỉ phát khi có bóng đá) 
-https://bit.ly/37aWFFc
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 2 (Chỉ phát khi có bóng đá) 
-https://bit.ly/392sD8l
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 3 (Chỉ phát khi có bóng đá)
-https://bit.ly/2Q7YzzF
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 4 (Chỉ phát khi có bóng đá)
-https://bit.ly/34JpAPf
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 5 (Chỉ phát khi có bóng đá)
-https://cdn.90phut.tv/391a5c4c08d0a606c701fe7e67b4d6de808e6974/40979b9bfdff5a706cbc8499f2df6a08/1577375313/livehls/mtc_totSD/playlist.m3u8
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 6 (Chỉ phát khi có bóng đá)
-http://live.bongdaf.net/hls/ca8a20e32bb1bbfec4672b39d3ae2e94/5c852e18c8f1akxcCBU006/da3365f03ff732ba38f11601384f6e43/b13vrkl/index.m3u8
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 7 (Chỉ phát khi có bóng đá)
-http://live.bongdaf.net/hls/ad631be1bc8c4f5e17018f2f60f3061b/5c852e3919663uhlQOZ236/7913b85d61308864c186b7a6d3dee346/83budxc/index.m3u8
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 8 (Chỉ phát khi có bóng đá)
-http://live.bongdaf.net/hls/766b0885a123bd221cea5b05a147fc96/5c852e5742dc4pseNZS697/7b85f466c206ba0e719026dc8e808cc9/zknbe7n/index.m3u8
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 9 (Chỉ phát khi có bóng đá)
-http://live.bongdaf.net/hls/76b0387bc50254dd5f398df3285f18dc/5c852ebf3d55fkblCOJ712/38ed0e87d047dfa8cd47220350fb02f6/n2o4qbe/index.m3u8
-#EXTINF:-1 group-title="Bóng Đá" tvg-logo="https://www.upsieutoc.com/images/2019/03/14/BEARTVfb0ef16563777049ba.jpg",Bóng Đá 10 (Chỉ phát khi có bóng đá)
-http://live.bongdaf.net/hls/2dcfed6fcfb6cd36fd8697000b1e8552/5c852ef7c50aecboRIN440/3ca4f96cbb3ff33703a02b10f89c6e03/mgp6eqy/index.m3u8
-
 
 #EXTINF:-1,VT: ANTV
 http://go.iptv.cab:80/ANFSqBbOYW/WTHItVYnNe/22610
@@ -818,175 +797,175 @@ http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VutBay.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-1.jpg", Doraemon Tập 01 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-1.jpg", Doraemon Tập 01 (Vietsub)
 http://gg.gg/cji2e
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-2.jpg", Doraemon Tập 02 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-2.jpg", Doraemon Tập 02 (Vietsub)
 http://gg.gg/chxbx
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-3.jpg", Doraemon Tập 03 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-3.jpg", Doraemon Tập 03 (Vietsub)
 http://gg.gg/chxca
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-4.jpg", Doraemon Tập 04 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-4.jpg", Doraemon Tập 04 (Vietsub)
 http://gg.gg/chxcu
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-5.jpg", Doraemon Tập 05 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-5.jpg", Doraemon Tập 05 (Vietsub)
 http://gg.gg/ci7z7
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-6.jpg", Doraemon Tập 06 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-6.jpg", Doraemon Tập 06 (Vietsub)
 http://gg.gg/ci84h
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-7.jpg", Doraemon Tập 07 (Vietsub) 
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-7.jpg", Doraemon Tập 07 (Vietsub) 
 http://gg.gg/cij3v
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-8.jpg", Doraemon Tập 08 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-8.jpg", Doraemon Tập 08 (Vietsub)
 http://gg.gg/ci88h
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-9.jpg", Doraemon Tập 09 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-9.jpg", Doraemon Tập 09 (Vietsub)
 http://gg.gg/ci89n
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-10.jpg", Doraemon Tập 10 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-10.jpg", Doraemon Tập 10 (Vietsub)
 http://gg.gg/ci8a5
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-11.jpg", Doraemon Tập 11 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-11.jpg", Doraemon Tập 11 (Vietsub)
 http://gg.gg/ci8js
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-12.jpg", Doraemon Tập 12 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-12.jpg", Doraemon Tập 12 (Vietsub)
 http://gg.gg/ci8l3
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-13.jpg", Doraemon Tập 13 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-13.jpg", Doraemon Tập 13 (Vietsub)
 http://gg.gg/cifir
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-14.jpg", Doraemon Tập 14 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-14.jpg", Doraemon Tập 14 (Vietsub)
 http://gg.gg/cifj9
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-15.jpg", Doraemon Tập 15 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-15.jpg", Doraemon Tập 15 (Vietsub)
 http://gg.gg/cifl0
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-16.jpg", Doraemon Tập 16 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-16.jpg", Doraemon Tập 16 (Vietsub)
 http://gg.gg/cij6l
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-17.jpg", Doraemon Tập 17 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-17.jpg", Doraemon Tập 17 (Vietsub)
 http://gg.gg/cij6v
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-18.jpg", Doraemon Tập 18 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-18.jpg", Doraemon Tập 18 (Vietsub)
 http://gg.gg/cij75
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-19.jpg", Doraemon Tập 19 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-19.jpg", Doraemon Tập 19 (Vietsub)
 http://gg.gg/cij7d
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-20.jpg", Doraemon Tập 20 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-20.jpg", Doraemon Tập 20 (Vietsub)
 http://gg.gg/cijbg
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-21.jpg", Doraemon Tập 21 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-21.jpg", Doraemon Tập 21 (Vietsub)
 http://gg.gg/cj8ol
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-22.jpg", Doraemon Tập 22 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-22.jpg", Doraemon Tập 22 (Vietsub)
 http://gg.gg/cj8qm
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-23.jpg", Doraemon Tập 23 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-23.jpg", Doraemon Tập 23 (Vietsub)
 http://gg.gg/cj8pk
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-24.jpg", Doraemon Tập 24 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-24.jpg", Doraemon Tập 24 (Vietsub)
 http://gg.gg/cj8r0
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-25.jpg", Doraemon Tập 25 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-25.jpg", Doraemon Tập 25 (Vietsub)
 http://gg.gg/cji33
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-26.jpg", Doraemon Tập 26 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-26.jpg", Doraemon Tập 26 (Vietsub)
 http://gg.gg/cji3d
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-27.jpg", Doraemon Tập 27 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-27.jpg", Doraemon Tập 27 (Vietsub)
 http://gg.gg/cji3p
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-28.jpg", Doraemon Tập 28 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-28.jpg", Doraemon Tập 28 (Vietsub)
 http://gg.gg/cji41
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-29.jpg", Doraemon Tập 29 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-29.jpg", Doraemon Tập 29 (Vietsub)
 http://gg.gg/cji57
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-30.jpg", Doraemon Tập 30 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-30.jpg", Doraemon Tập 30 (Vietsub)
 http://gg.gg/cpsgi
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-31.jpg", Doraemon Tập 31 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-31.jpg", Doraemon Tập 31 (Vietsub)
 http://gg.gg/cpsgm
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-32.jpg", Doraemon Tập 32 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-32.jpg", Doraemon Tập 32 (Vietsub)
 http://gg.gg/cpsgv
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-33.jpg", Doraemon Tập 33 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-33.jpg", Doraemon Tập 33 (Vietsub)
 http://gg.gg/cpshn
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-34.jpg", Doraemon Tập 34 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-34.jpg", Doraemon Tập 34 (Vietsub)
 http://gg.gg/cpshu
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-35.jpg", Doraemon Tập 35 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-35.jpg", Doraemon Tập 35 (Vietsub)
 http://gg.gg/cpsi0
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-36.jpg", Doraemon Tập 36 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-36.jpg", Doraemon Tập 36 (Vietsub)
 http://gg.gg/cpsii
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-37.jpg", Doraemon Tập 37 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-37.jpg", Doraemon Tập 37 (Vietsub)
 http://gg.gg/csck8
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-38.jpg", Doraemon Tập 38 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-38.jpg", Doraemon Tập 38 (Vietsub)
 http://gg.gg/csckd
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-39.jpg", Doraemon Tập 39 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-39.jpg", Doraemon Tập 39 (Vietsub)
 http://gg.gg/csclf
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-40.jpg", Doraemon Tập 40 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-40.jpg", Doraemon Tập 40 (Vietsub)
 http://gg.gg/csclm
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-41.jpg", Doraemon Tập 41 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-41.jpg", Doraemon Tập 41 (Vietsub)
 http://gg.gg/csclt
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-42.jpg", Doraemon Tập 42 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-42.jpg", Doraemon Tập 42 (Vietsub)
 http://gg.gg/cscmx
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-43.jpg", Doraemon Tập 43 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-43.jpg", Doraemon Tập 43 (Vietsub)
 http://gg.gg/cscng
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-44.jpg", Doraemon Tập 44 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-44.jpg", Doraemon Tập 44 (Vietsub)
 http://gg.gg/cscnr
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-45.jpg", Doraemon Tập 45 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-45.jpg", Doraemon Tập 45 (Vietsub)
 http://gg.gg/cscnx
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-46.jpg", Doraemon Tập 46 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-46.jpg", Doraemon Tập 46 (Vietsub)
 http://gg.gg/csco6
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-47.jpg", Doraemon Tập 47 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-47.jpg", Doraemon Tập 47 (Vietsub)
 http://gg.gg/cscok
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-48.jpg", Doraemon Tập 48 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-48.jpg", Doraemon Tập 48 (Vietsub)
 http://gg.gg/cscoo
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-49.jpg", Doraemon Tập 49 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-49.jpg", Doraemon Tập 49 (Vietsub)
 http://gg.gg/cscp1
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-50.jpg", Doraemon Tập 50 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-50.jpg", Doraemon Tập 50 (Vietsub)
 http://gg.gg/cscpa
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-51.jpg", Doraemon Tập 51 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-51.jpg", Doraemon Tập 51 (Vietsub)
 http://gg.gg/dydfu
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-52.jpg", Doraemon Tập 52 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-52.jpg", Doraemon Tập 52 (Vietsub)
 http://gg.gg/dydu4
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-53.jpg", Doraemon Tập 53 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-53.jpg", Doraemon Tập 53 (Vietsub)
 http://gg.gg/dydv3
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-54.jpg", Doraemon Tập 54 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-54.jpg", Doraemon Tập 54 (Vietsub)
 http://gg.gg/dydvt
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-55.jpg", Doraemon Tập 55 (Vietsub)
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-55.jpg", Doraemon Tập 55 (Vietsub)
 
-#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-56.jpg", Doraemon Tập 56 (Vietsub)
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ad33d3e0df938e14065e6b9", Doraemon Vietsub Tập 490
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-56.jpg", Doraemon Tập 56 (Vietsub)
+
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ad33d3e0df938e14065e6b9", Doraemon Tập 490 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_H3MKqATh-720.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m09.dgo.clhcdn.net/media/image/id/5ad33d290df938e84065e69d", Doraemon Vietsub Tập 491
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m09.dgo.clhcdn.net/media/image/id/5ad33d290df938e84065e69d", Doraemon Tập 491 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_1HYhUQ6W-720.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ad33c210df938ed4065e6b2", Doraemon Vietsub Tập 493
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ad33c210df938ed4065e6b2", Doraemon Tập 493 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/uWwKsAeL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ae978e00df938a86ff1d99c", Doraemon Vietsub Tập 494 P1
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ae978e00df938a86ff1d99c", Doraemon Tập 494 P1 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/mQEvuQCj.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m10.dgo.clhcdn.net/media/image/id/5afc0a5f0df9384737b73b1e", Doraemon Vietsub Tập 494 P2
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m10.dgo.clhcdn.net/media/image/id/5afc0a5f0df9384737b73b1e", Doraemon Tập 494 P2 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/OeQwEgmW.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m08.dgo.clhcdn.net/media/image/id/5ad33bf10df938de4065e6b4", Doraemon Vietsub Tập 496
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m08.dgo.clhcdn.net/media/image/id/5ad33bf10df938de4065e6b4", Doraemon Tập 496 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_GQea6g0X.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m10.dgo.clhcdn.net/media/image/id/5ad33b740df938ea4065e69f", Doraemon Vietsub Tập 498
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m10.dgo.clhcdn.net/media/image/id/5ad33b740df938ea4065e69f", Doraemon Tập 498 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/lugzcQXq.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m08.dgo.clhcdn.net/media/image/id/5ad33bf10df938de4065e6b4", Doraemon Vietsub Tập 499
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://m08.dgo.clhcdn.net/media/image/id/5ad33bf10df938de4065e6b4", Doraemon Tập 499 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/pov3hQcp.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 500
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 500 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_3pTcrgs0.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 501
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 501 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_nNJmfgEk.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 502
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 502 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_6lxC5AW3.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 503
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 503 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/9MuWqgjh.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 504
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 504 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/cq6XyAdS.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 506
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 506 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_wvNRMws5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 511
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 511 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/TAh2ggfm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 512
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 512 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/xacCGAS5.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 513
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 513 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/ku1heQcs.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 515
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 515 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/4OLgsw92.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 516
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 516 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/1VkucA4K.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 517
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 517 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/iuTvYQ39.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 518
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 518 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/IM8BOgPO.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 519
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 519 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/kxg9Qwhm.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 520
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 520 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/xOUOcgLR.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 521
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 521 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/RubRSwuj.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 522
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 522 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/tRCMHQf2.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 525
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 525 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/rsGcJQLv.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 538
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 538 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/Mofg8AEL.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 543
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 543 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/cLPofgmG-720.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 545
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 545 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/hLJvag51-720.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 546
+#EXTINF:-1 group-title="Phim Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Tập 546 (Vietsub)
 https://nh.ntl.clhcdn.net/clhgfs/video/4aSwsgDV1544849311-720.mp4/index-v1-a1.m3u8
-
